@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+body{
+    background-color: blanchedalmond;
+    color: brown;
+    font-family: "Playfair Display", serif;
+}
+p{
+    color: black;
+    /*muda a cor do texto*/
+    background-color: bisque;
+    /*muda a cor do fundo*/
+}
+h1{
+    text-align: center;
+    font-weight: 800; 
+    font-style: italic; 
+    /*estilo da fonte*/
+    font-size: medium;
+    /*tamanho da fonte*/
+}
+
+nav{
+    text-align: center;
+}
+
+a{
+    color: beige;
+    text-decoration: none;
+    /*decoração do texto*/
+}
+
